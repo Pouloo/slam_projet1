@@ -199,6 +199,33 @@ li.burger > a::after
 
 /* Accueil */
 
+section#overview ul
+{
+    margin: 80px 0;
+}
+
+section#overview ul li
+{
+    width: 300px;
+    float: left;
+    padding-top: 140px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+li#step1
+{
+    background: url('images/step1.png') no-repeat top center;
+    margin-left: 35px;
+}
+li#step2
+{
+    background: url('images/step2.png') no-repeat top center;
+}
+li#step3
+{
+    background: url('images/step3.png') no-repeat top center;
+
 /* Profil */
 
 /* Formation */
