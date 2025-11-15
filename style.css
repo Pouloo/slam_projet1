@@ -123,7 +123,7 @@ header
     position: sticky;
     top: 0px;
     background-color: whitesmoke;
-    border-top: 10px solid #d83e40;
+    border-top: 0.5vw solid #d83e40;
     border-bottom: 1px solid #d83e40;   
 }
 header ul
@@ -171,16 +171,14 @@ ul.sub_burger li
     text-align: left;
 }
 
-/* header + ul:nth-child(1)
+header ul li:nth-child(5)
 {
-    float: right;
-    width: 100%;
-} */
+    width: 10%;
+}
 header a:hover
 {
     color: #d83e40;
-    border-bottom: 3px;
-    border-bottom: 1.5px solid #d83e40;
+    border-bottom: 0.15vw solid #d83e40;
 }
 header > ul li:hover ul.sub_burger
 {
@@ -202,7 +200,8 @@ li.burger > a::after
 
 section#overview ul
 {
-    margin: 80px 0;
+    height: 300px;
+    margin: 80px 0px;
 }
 
 section#overview ul li
