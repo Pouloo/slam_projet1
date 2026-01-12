@@ -2,7 +2,7 @@
 <html lang="Fr">
     <head>
         <meta charset="UTF-8">
-        <link href="../style.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
 		<link href="images/favicon.png" rel="icon" type="image/png">
         <link href="https://fonts.googleapis.com/css?family=Crete+Round" rel="stylesheet">
         <title>ThonMayo</title>
